@@ -41,7 +41,7 @@
   ],
   "dependencies": {
     "basic-auth": "1.1.0",
-    "bcrypt": "~1.0.1",
+    "bcrypt": "~5.0.0",
     "bcryptjs": "2.4.3",
     "body-parser": "1.17.2",
     "cheerio": "0.22.0",
@@ -122,7 +122,7 @@
   "main": "red/red.js",
   "name": "node-red",
   "optionalDependencies": {
-    "bcrypt": "~1.0.1"
+    "bcrypt": "~5.0.0"
   },
   "repository": {
     "type": "git",
